@@ -1,4 +1,4 @@
-# SmartInboxAI: Intelligent Email Routing & Analysis
+# IntelliMail Pro: Smart Email Routing & Analysis
 
 Outlook add-in that provides capability of fetching emails of specific categories and forward them to respective recipents in bulk. Leverages MIcrosoft Graph Api for the same.
 
